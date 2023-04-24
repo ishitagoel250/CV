@@ -1,2 +1,2 @@
 # CV
-https://ishitagoel250.github.io/CV/
+link: https://ishitagoel250.github.io/CV/
